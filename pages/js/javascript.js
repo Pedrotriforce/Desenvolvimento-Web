@@ -5,35 +5,35 @@ const servicos = [
         preco: 50,
         descricao: "Corte personalizado",
         iconeCustom: true,
-        iconeUrl: '/assets/images/icone-corte.png'
+        iconeUrl: '../assets/images/icone-corte.png'
     },
     { 
         nome: "Coloração", 
         preco: 120,
         descricao: "Técnicas modernas de coloração",
         iconeCustom : true,
-        iconeUrl: '/assets/images/icone-coloracao.png'
+        iconeUrl: '../assets/images/icone-coloracao.png'
     },
     { 
         nome: "Manicure", 
         preco: 30,
         descricao: "Cuidados completos para suas mãos",
         iconeCustom : true,
-        iconeUrl: '/assets/images/icone-manicure.png'
+        iconeUrl: '../assets/images/icone-manicure.png'
     },
     { 
         nome: "Pedicure", 
         preco: 40,
         descricao: "Tratamento completo para seus pés",
         iconeCustom: true,
-        iconeUrl: '/assets/images/icone-pedicure.png'
+        iconeUrl: '../assets/images/icone-pedicure.png'
     },
     { 
          nome: "Maquiagem", 
         preco: 80,
         descricao: "Maquiagem profissional para qualquer ocasião",
         iconeCustom: true, // Adicione esta flag
-        iconeUrl: '/assets/images/icone-maquiagem2.png'
+        iconeUrl: '../assets/images/icone-maquiagem2.png'
     }
 ];
 

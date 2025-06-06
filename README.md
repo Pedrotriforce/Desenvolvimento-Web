@@ -1,4 +1,4 @@
-# Projeto Integrado Desenvolvimento Desktop
+# Projeto Integrado Desenvolvimento Web
 
 Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas da UNIFEOB.
 

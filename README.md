@@ -50,7 +50,7 @@ desenvolvimento-web/
 │   └── images/                     # Imagens do projeto
 ├── pages/
 │   ├── css/
-│   │   └── style.css               # Folha de estilos CSS
+│   │   └── style.css               # Arquivo CSS
 │   ├── js/
 │   │   └── script.js               # Arquivo JavaScript
 │   ├── cadastro.html               # Página de cadastro

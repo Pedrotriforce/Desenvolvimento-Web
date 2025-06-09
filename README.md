@@ -25,7 +25,7 @@ Foram utlizados os conceitos de Desenvolvimento Web visto na unidade **Ferrament
 - **servicos.html**: Página com a lista de serviços.
 - **cadastro.html**: Página com o formulário de cadastro para clientes.
 - **style.css**: Arquivo que reune toda a informação visual das páginas HTML, como cor, fonte, layout e responsividade.
-- **javascript.js**: Arquivo que reune todo o código em javascript, responsavel pelas interatividades, animações e funcoinalidades dinâmicas das páginas HTML.
+- **javascript.js**: Arquivo que reune todo o código em javascript, responsavel pelas interatividades, animações e funcionalidades dinâmicas das páginas HTML.
 
 - ## Funcionalidades
 
@@ -43,3 +43,18 @@ Foram utlizados os conceitos de Desenvolvimento Web visto na unidade **Ferrament
 | **JavaScript** | ES2023  | Interatividade e dinamismo das páginas web  |
 | **Bootstrap**  | 5.3     | Framework CSS                               |
 
+## Estrutura do Projeto
+```
+desenvolvimento-web/
+├── assets/
+│   └── images/                     # Imagens do projeto
+├── pages/
+│   ├── css/
+│   │   └── style.css               # Folha de estilos CSS
+│   ├── js/
+│   │   └── script.js               # Arquivo JavaScript
+│   ├── cadastro.html               # Página de cadastro
+│   └── servicos.html               # Página de serviços
+└── README.md                       # Este arquivo
+
+```

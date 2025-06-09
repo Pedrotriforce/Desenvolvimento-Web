@@ -18,6 +18,8 @@ Página Web com cadastro de clientes e agendamento de serviços para a empresa N
 
 Foram utlizados os conceitos de Desenvolvimento Web visto na unidade **Ferramentas de Desenvolvimento Web** fazendo o uso de Criação e Formatação de páginas web com HTML, Aplicação de layout HTML+CSS.
 
+A página web esta seguindo a estruturação padrão de diretórios como pode ser visto na estrutura do projeto no final deste arquivo seguindo as boas práticas de programação web.
+A página web está hospedada no servidor gratuito GitHub Pages: https://pedrotriforce.github.io/Desenvolvimento-Web/
 
 ## Descrição dos Modelos
 
